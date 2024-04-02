@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">RefaldiDay06</string>
+    <string name="role">Role</string>
+    <string name="nama">Nama</string>
+    <string name="lane">Lane</string>
+
+    <string-array name="nama_hero">
+        <item>Miya</item>
+        <item>Balmond</item>
+        <item>Saber</item>
+        <item>Alice</item>
+        <item>Nana</item>
+        <item>Tigreal</item>
+        <item>Alucard</item>
+        <item>Karina</item>
+        <item>Akai</item>
+        <item>Franco</item>
+        <item>Bane</item>
+        <item>Bruno</item>
+        <item>Clint</item>
+        <item>Rafaela</item>
+        <item>Eudora</item>
+    </string-array>
+
+    <string-array name="role_hero">
+        <item>Marksman</item>
+        <item>Fighter</item>
+        <item>Assassin</item>
+        <item>Mage/Tank</item>
+        <item>Mage</item>
+        <item>Tank</item>
+        <item>Fighter/Assassin</item>
+        <item>Assassin</item>
+        <item>Tank</item>
+        <item>Tank</item>
+        <item>Fighter/Mage</item>
+        <item>Marksman</item>
+        <item>Marksman</item>
+        <item>Support</item>
+        <item>Mage</item>
+    </string-array>
+
+    <string-array name="foto_hero">
+        <item>miya</item>
+        <item>balmond</item>
+        <item>saber</item>
+        <item>alice</item>
+        <item>nana</item>
+        <item>tigreal</item>
+        <item>alucard</item>
+        <item>karina</item>
+        <item>akai</item>
+        <item>franco</item>
+        <item>bane</item>
+        <item>bruno</item>
+        <item>clint</item>
+        <item>rafaela</item>
+        <item>eudora</item>
+        <item>zilong</item>
+        <item>fanny</item>
+        <item>layla</item>
+    </string-array>
+
+    <string-array name="lane_hero">
+        <item>Gold</item>
+        <item>Jungling/Exp</item>
+        <item>Jungling/Roam</item>
+        <item>Exp/Mid</item>
+        <item>Mid</item>
+        <item>Roaming</item>
+        <item>Jungling</item>
+        <item>Jungling</item>
+        <item>Roaming/Jungling</item>
+        <item>Roaming</item>
+        <item>Exp/Jungling</item>
+        <item>Gold</item>
+        <item>Gold</item>
+        <item>Roaming</item>
+        <item>Mid</item>
+        <item>Exp/Jungling</item>
+        <item>Jungling</item>
+        <item>Gold</item>
+    </string-array>
+</resources>
